@@ -19,7 +19,7 @@
 
 2025-02-11 도커 컨테이터 기초를 학습했습니다 [2025-02-11](https://github.com/100-hours-a-week/kevin.Kim-TIL/blob/main/Feb/2025-02-11.md)
 
-2025-02-12 SQLD 공부를 진행했습니다 [2025-02-11](https://github.com/100-hours-a-week/kevin.Kim-TIL/blob/main/Feb/2025-02-12.md)
+2025-02-12 SQLD 공부를 진행했습니다 [2025-02-12](https://github.com/100-hours-a-week/kevin.Kim-TIL/blob/main/Feb/2025-02-12.md)
 
-2025-02-13 SQLD 공부를 진행했습니다 [2025-02-11](https://github.com/100-hours-a-week/kevin.Kim-TIL/blob/main/Feb/2025-02-13.md)
+2025-02-13 SQLD 공부를 진행했습니다 [2025-02-13](https://github.com/100-hours-a-week/kevin.Kim-TIL/blob/main/Feb/2025-02-13.md)
 
