@@ -23,3 +23,6 @@
 
 2025-02-14 SQLD 공부를 진행했습니다 [2025-02-14](https://github.com/100-hours-a-week/kevin.Kim-TIL/blob/main/Feb/2025-02-14.md)
 
+2025-02-17 쿠버네티스 공부를 진행하고 복습했습니다 [2025-02-17](https://github.com/100-hours-a-week/kevin.Kim-TIL/blob/main/Feb/2025-02-17.md)
+
+2025-02-19 SQLD 공부와 쿠버네티스를 진행했습니다 [2025-02-19](https://github.com/100-hours-a-week/kevin.Kim-TIL/blob/main/Feb/2025-02-19.md)
