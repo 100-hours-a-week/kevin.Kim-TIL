@@ -28,3 +28,5 @@
 2025-02-19 SQLD 공부와 쿠버네티스를 진행했습니다 [2025-02-19](https://github.com/100-hours-a-week/kevin.Kim-TIL/blob/main/Feb/2025-02-19.md)
 
 2025-02-24 클라우드 컴퓨팅 기본 개념과 쿠버네티스를 공부했습니다 [2025-02-24](https://github.com/100-hours-a-week/kevin.Kim-TIL/blob/main/Feb/2025-02-24.md)
+
+2025-03-20 클라우드 아키텍쳐를 설계하고 AWS EC2에 백엔드 서버 올리기 [2025-03-20](https://github.com/100-hours-a-week/kevin.Kim-TIL/blob/main/Feb/2025-03-20.md)
